@@ -1,0 +1,38 @@
+name: news_app
+description: A new Flutter project.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0' # Pastikan Anda menggunakan rentang SDK yang benar
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Untuk ikon yang modern dan bersih (sesuai UI)
+  iconsax: ^0.0.8 
+  
+  # Untuk font kustom
+  google_fonts: ^6.2.1 
+  
+  # Untuk memuat gambar dari internet dengan cache
+  cached_network_image: ^3.3.1 
+
+  # Untuk grid yang lebih rapi di halaman profil/discover
+  flutter_staggered_grid_view: ^0.7.0
+  # Firebase
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.15.0
+  cloud_firestore: ^4.14.0
+  # State management
+  provider: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "807506092000",
+    "project_id": "wilyam-yazid-hamdi",
+    "storage_bucket": "wilyam-yazid-hamdi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807506092000:android:602c52e43f650b9b00d585",
+        "android_client_info": {
+          "package_name": "com.example.berita55"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo81IWPMvTihcthSXTyGqEDZvjjsolxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807506092000:android:07311a6c9690d31200d585",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo81IWPMvTihcthSXTyGqEDZvjjsolxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807506092000:android:278437ff3d72549f00d585",
+        "android_client_info": {
+          "package_name": "com.example.w3_grocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo81IWPMvTihcthSXTyGqEDZvjjsolxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
